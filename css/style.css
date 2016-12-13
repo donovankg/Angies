@@ -110,7 +110,7 @@ img:last-of-type {
 
 #slide3:before {
   /*background-image: url("http://lorempixel.com/640/480/abstract/5/");*/
-  /*background: yellow;*/
+  background: yellow;
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
