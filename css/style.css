@@ -45,7 +45,21 @@ img {
   background: rgba(240,230,220, .7);
   box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
-
+.img1{
+  left: 72% !important;
+}
+.img2{
+  left: 72% !important;
+}
+.img3{
+  width: 180px !important;
+}
+.img4{
+  width: 120px !important;
+}
+.img5{
+    width: 130px !important;
+}
 img:last-of-type {
 
   transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(-40%) rotate(-5deg);
