@@ -104,7 +104,7 @@ img:last-of-type {
 
 #slide2 {
   /*background-image: url("http://lorempixel.com/640/480/abstract/3/");*/
-  /*background: lightblue;*/
+  background: lightblue;
   background-attachment: fixed;
 }
 
