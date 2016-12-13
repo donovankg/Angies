@@ -91,26 +91,26 @@ img:last-of-type {
 
 #title {
   background-image: url("http://lorempixel.com/640/480/abstract/6/");
-  background: red;
+  /*background: red;*/
    background-attachment: fixed;
 }
 
 #slide1:before {
   background-image: url("http://lorempixel.com/640/480/abstract/4/");
-  background: green;
+  /*background: green;*/
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
 #slide2 {
   background-image: url("http://lorempixel.com/640/480/abstract/3/");
-  background: lightblue;
+  /*background: lightblue;*/
   background-attachment: fixed;
 }
 
 #slide3:before {
   background-image: url("http://lorempixel.com/640/480/abstract/5/");
-  background: yellow;
+  /*background: yellow;*/
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
